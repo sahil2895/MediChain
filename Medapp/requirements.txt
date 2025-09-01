@@ -1,6 +1,0 @@
-streamlit
-web3
-requests
-cryptography
-python-dotenv
-py-solc-x
